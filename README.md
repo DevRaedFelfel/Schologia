@@ -1,0 +1,2 @@
+# Schologia
+School Management System 
